@@ -1,4 +1,4 @@
-// var playerName = window.prompt("What is your robot's name?");
+// git var playerName = window.prompt("What is your robot's name?");
 var playerHealth = 100;
 var playerAttack = 10;
 var playerMoney = 10;
